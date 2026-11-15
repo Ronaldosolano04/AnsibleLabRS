@@ -44,6 +44,7 @@ ansible-playbook -i inventory.ini playbook.yml
 ## Captura de la ejecución exitosa
 
 ![Ejecución exitosa del playbook](img/ejecucion.png)
+<img width="1560" height="628" alt="image" src="https://github.com/user-attachments/assets/aac5f03b-1b75-4881-9af4-d3744fe7247d" />
 
 ## Detener el laboratorio
 
